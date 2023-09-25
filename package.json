@@ -1,0 +1,46 @@
+{
+  "name": "rspn-squirrel",
+  "displayName": "Respawn Squirrel",
+  "description": "Support for Respawn Squirrel",
+  "version": "1.0.0",
+  "publisher": "System Tomcat",
+  "icon": "acorn.png",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "keywords": [
+    "squirrel",
+    "nut"
+  ],
+  "contributes": {
+    "languages": [
+        {
+            "id": "squirrel",
+            "aliases": [
+                "Squirrel",
+                "squirrel"
+            ],
+            "extensions": [
+                ".nut",
+                ".gnut"
+            ],
+            "configuration": "./language-configuration.json"
+        }
+    ],
+    "grammars": [
+        {
+            "language": "squirrel",
+            "scopeName": "rspn.squirrel",
+            "path": "./syntaxes/squirrel.tmLanguage.json"
+        }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/r-ex/vscode-squirrel-re.git"
+  }
+}
