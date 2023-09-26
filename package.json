@@ -3,7 +3,7 @@
   "displayName": "Respawn Squirrel",
   "description": "Support for Respawn Squirrel",
   "version": "1.0.0",
-  "publisher": "System Tomcat",
+  "publisher": "systemtomcat",
   "icon": "acorn.png",
   "license": "MIT",
   "engines": {
