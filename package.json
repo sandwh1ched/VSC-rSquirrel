@@ -2,9 +2,9 @@
   "name": "rspn-squirrel",
   "displayName": "Respawn Squirrel",
   "description": "Support for Respawn Squirrel",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "publisher": "systemtomcat",
-  "icon": "acorn.png",
+  "icon": "rspn-squirrel.png",
   "license": "MIT",
   "engines": {
     "vscode": "^1.82.0"
