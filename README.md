@@ -1,7 +1,7 @@
 # <p align='center'>Respawn Squirrel</p>
 
 # NOTE
-### System Tomcat (the publisher) only PUBLISHES this extension. Most development is done by the author, r-ex.
+### Sandwhiched (the publisher, haven't changed my marketplace name yet) only PUBLISHES this extension. Most development is done by the author, r-ex.
 
 ## Features
 
@@ -14,4 +14,4 @@ None reported.
 # Author & code
 [r-ex](https://github.com/r-ex)  
 [Original source code repo](https://github.com/r-ex/vscode-squirrel-re)  
-[Published version source code repo](https://github.com/systemtomcat/vscode-rspn-squirrel)
+[Published version source code repo](https://github.com/sandwhiched/vscode-rspn-squirrel)
