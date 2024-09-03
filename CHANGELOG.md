@@ -1,6 +1,6 @@
 # <p align='center'>Changelog</p>
 
-# 1.2 *[Current]*
+# 1.2
 - Added a bit better logo
 - Better README.md formatting
 

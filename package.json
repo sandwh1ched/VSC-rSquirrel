@@ -3,7 +3,7 @@
   "displayName": "Respawn Squirrel",
   "description": "Support for Respawn Squirrel",
   "version": "1.2.0",
-  "publisher": "systemtomcat",
+  "publisher": "Sandwhiched",
   "icon": "rspn-squirrel.png",
   "license": "MIT",
   "engines": {
