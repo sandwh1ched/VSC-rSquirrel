@@ -1,6 +1,6 @@
 {
-  "name": "Squirrel",
-  "scopeName": "rspn.squirrel",
+  "name": "rSquirrel",
+  "scopeName": "rsquirrel",
   "patterns": [
     {
       "include": "#all"

@@ -20,10 +20,10 @@
   "contributes": {
     "languages": [
         {
-            "id": "squirrel",
+            "id": "rsquirrel",
             "aliases": [
-                "Squirrel",
-                "squirrel"
+                "rSquirrel",
+                "rsquirrel"
             ],
             "extensions": [
                 ".nut",
@@ -34,14 +34,20 @@
     ],
     "grammars": [
         {
-            "language": "squirrel",
-            "scopeName": "rspn.squirrel",
-            "path": "./syntaxes/squirrel.tmLanguage.json"
+            "language": "rsquirrel",
+            "scopeName": "rsquirrel",
+            "path": "./syntaxes/rSquirrel.tmLanguage.json"
         }
+    ],
+    "snippets": [
+      {
+        "language": "rsquirrel",
+        "path": "./snippets/rSquirrel.json"
+      }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/r-ex/vscode-squirrel-re.git"
+    "url": "https://github.com/sandwh1ched/VSC-rSquirrel"
   }
 }
