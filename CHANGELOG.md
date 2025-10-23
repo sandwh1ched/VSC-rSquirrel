@@ -1,5 +1,10 @@
 # Changelog
 
+# 1.3
+* Renamed extension from "Respawn Squirrel" to "rSquirrel"
+* Added new logo
+* Fixed snippets not working
+
 ## 1.2
 * Added a bit better logo
 * Better README.md formatting
