@@ -1,17 +1,16 @@
-# <p align='center'>Respawn Squirrel</p>
+# rSquirrel
 
-# NOTE
-### Sandwhiched (the publisher, haven't changed my marketplace name yet) only PUBLISHES this extension. Most development is done by the author, r-ex.
+## Synopsis
+A VS Code extension that adds support for Respawn Entertainment's Squirrel
+derivative language, rSquirrel.
+
+Unfortunately, at this time, the extension cannot be uploaded onto the Open VSX
+Registry as there are some account issues that must be resolved first, which I
+have not gotten to yet.
 
 ## Features
+* rSquirrel syntax highlighting
+* Snippets to write code faster
 
-- Respawn Squirrel support
-
-## Known Issues
-
-None reported.
-
-# Author & code
-[r-ex](https://github.com/r-ex)  
-[Original source code repo](https://github.com/r-ex/vscode-squirrel-re)  
-[Published version source code repo](https://github.com/sandwhiched/vscode-rspn-squirrel)
+## Credits and links
+**[@r-ex](https://github.com/r-ex)**, original developer ([r-ex's source code repo](https://github.com/r-ex/vscode-squirrel-re))
