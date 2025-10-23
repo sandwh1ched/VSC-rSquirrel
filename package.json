@@ -1,7 +1,7 @@
 {
-  "name": "rspn-squirrel",
-  "displayName": "Respawn Squirrel",
-  "description": "Support for Respawn Squirrel",
+  "name": "rsquirrel",
+  "displayName": "rSquirrel",
+  "description": "Adds support for Respawn's Squirrel derivative, is primarily for Titanfall 2",
   "version": "1.3.0",
   "publisher": "Sandwhiched",
   "icon": "icon.png",
@@ -14,6 +14,7 @@
   ],
   "keywords": [
     "squirrel",
+    "respawn",
     "nut"
   ],
   "contributes": {
